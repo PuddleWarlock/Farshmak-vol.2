@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cde09f71193e4a67ac591d8c40a95224, type: 3}
+  m_Name: CoffeeItemsConfig
+  m_EditorClassIdentifier: 
+  CoffeeItems:
+  - ID: 0
+    prefab: {fileID: 1319179482653884, guid: 5250601e39c4f0446bc62f2a6c1bf27d, type: 3}
+    price: 10
+  - ID: 1
+    prefab: {fileID: 1673814260603974, guid: 9e0ebbd8e12f0a247b642c9eec2c79be, type: 3}
+    price: 20
