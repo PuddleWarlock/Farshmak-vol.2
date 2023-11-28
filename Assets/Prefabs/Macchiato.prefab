@@ -263,6 +263,7 @@ GameObject:
   - component: {fileID: 3357644642596672180}
   - component: {fileID: -3343419522101234719}
   - component: {fileID: 6094666762043735599}
+  - component: {fileID: 4812162441317851856}
   m_Layer: 0
   m_Name: Macchiato
   m_TagString: Untagged
@@ -280,7 +281,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.74367, y: 0.74367, z: 0.74367}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8578839576475025058}
@@ -406,3 +407,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   price: 20
+--- !u!114 &4812162441317851856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6963740834549080510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5afd5316c63705643b3daba5a6e923bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTetherWhenManipulating: 0
+  IsBoundsHandles: 0

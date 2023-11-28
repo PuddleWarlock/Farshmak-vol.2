@@ -677,11 +677,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: AR Proj
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 80d9507d1941db01
   metroApplicationDescription: AR Proj
   wsaImages: {}
   metroTileShortName: 
